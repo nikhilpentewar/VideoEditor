@@ -30,8 +30,8 @@ To use the application, simply open the provided URL in your preferred web brows
 
 ## Screenshots
 
-![Dashboard](Web-based-Video-Editor/images/home_page.png)
-![Video Editor](Web-based-Video-Editor/images/Edit_page.png)
+![Dashboard](videoeditor/images/home_page.png)
+![Video Editor](videoeditor/images/Edit_page.png)
 
 ## How to Contribute
 
